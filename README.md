@@ -1,33 +1,28 @@
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KristianKirschner&hide=javascript,css,scss,html&theme=tokyonight)
-
----
-
-# Olá! Eu sou o Kristian
-
-Estudante de Engenharia de Software  
-Foco em desenvolvimento back-end  
-Apaixonado por tecnologia, automação e soluções que resolvem problemas reais
-
----
+# Olá! Eu sou o Kristian ;)
 
 ## Sobre mim
 
-Sou estudante de Engenharia de Software com foco em desenvolvimento back-end, atuando principalmente com **Java** e **Spring Boot**.  
-Tenho experiência prática no desenvolvimento de **APIs REST**, integração com **bancos de dados relacionais (MySQL)** e aplicação de boas práticas como **MVC** e **SOLID**.
+Sou estudante de Engenharia de Software com foco em desenvolvimento back-end, com **experiência profissional como estagiário back-end**. Atuo principalmente com **Java** e **Spring Boot**, desenvolvendo **APIs REST**, integrando **bancos de dados relacionais (MySQL)** e aplicando boas práticas como **MVC** e **SOLID**.
 
-Gosto de aprender na prática e desenvolver projetos com impacto real, incluindo automações que reduzem tempo operacional e melhoram processos do dia a dia.
+Tenho perfil prático, gosto de aprender fazendo e desenvolver soluções com impacto real, incluindo automações que reduzem tempo operacional e melhoram processos. Atualmente, busco oportunidades como **estagiário ou desenvolvedor júnior** para continuar evoluindo tecnicamente e contribuir com times de tecnologia.
 
-Atualmente, busco oportunidades como **estagiário ou desenvolvedor júnior** para continuar evoluindo tecnicamente e contribuir com times de tecnologia.
+<h2 align="center">Minhas estatísticas</h2>
+
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KristianKirschner&theme=gruvbox&locale=pt_BR&short_numbers=true" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-- **Linguagens:** Java, JavaScript  
+- **Linguagens:** Java, JavaScript, Typescript
 - **Back-end:** Spring Boot, Spring MVC, JPA/Hibernate  
 - **Banco de dados:** MySQL  
 - **APIs:** REST, Swagger/OpenAPI  
-- **Front-end:** JavaFX, Angular (básico)  
+- **Front-end:** JavaFX, Angular
 - **Automação:** Selenium WebDriver  
 - **Versionamento:** Git, GitHub  
 - **Metodologias:** Scrum  
@@ -42,11 +37,11 @@ Atualmente, busco oportunidades como **estagiário ou desenvolvedor júnior** pa
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KristianKirschner&hide=javascript,css,scss,html&theme=tokyonight)
-
 ## 📫 Contato
 
 - 💼 LinkedIn: https://www.linkedin.com/in/kristian-kirschner-60828b29b
+- 📧 E-mail: kristianlll@hotmail.com
+- 📱 Celular / WhatsApp: +55 14 99784-5510
 
 ---
 
