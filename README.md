@@ -2,9 +2,7 @@
 
 ## Sobre mim
 
-Sou estudante de Engenharia de Software com foco em desenvolvimento back-end, com **experiência profissional como estagiário back-end**. Atuo principalmente com **Java** e **Spring Boot**, desenvolvendo **APIs REST**, integrando **bancos de dados relacionais (MySQL)** e aplicando boas práticas como **MVC** e **SOLID**.
-
-Tenho perfil prático, gosto de aprender fazendo e desenvolver soluções com impacto real, incluindo automações que reduzem tempo operacional e melhoram processos. Atualmente, busco oportunidades como **estagiário ou desenvolvedor júnior** para continuar evoluindo tecnicamente e contribuir com times de tecnologia.
+Sou estudante de Engenharia de Software com foco em desenvolvimento back-end, com experiência profissional como estagiário back-end. Atuo principalmente com Java e Spring Boot, desenvolvendo APIs REST, integrando bancos de dados relacionais e aplicando boas práticas como MVC e SOLID.
 
 <h2 align="center">Minhas estatísticas</h2>
 
