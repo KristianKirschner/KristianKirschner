@@ -14,7 +14,7 @@ Sou estudante de Engenharia de Software com foco em desenvolvimento back-end, co
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 - **Linguagens:** Java, JavaScript, Typescript
 - **Back-end:** Spring Boot, Spring MVC, JPA/Hibernate  
@@ -28,19 +28,15 @@ Sou estudante de Engenharia de Software com foco em desenvolvimento back-end, co
 
 ---
 
-## 📈 O que estou estudando atualmente
+## O que estou estudando atualmente
 
-- Testes automatizados
+- React Native
 - Cloud (Pretendo tirar a AWS Cloud Practioneer ainda esse semestre!)
 
 ---
 
-## 📫 Contato
+## Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/kristian-kirschner-60828b29b
-- 📧 E-mail: kristianlll@hotmail.com
-- 📱 Celular / WhatsApp: +55 14 99784-5510
-
----
-
-⭐ Fique à vontade para explorar meus repositórios e acompanhar minha evolução!
+- LinkedIn: https://www.linkedin.com/in/kristian-kirschner-60828b29b
+- E-mail: kristianlll@hotmail.com
+- Celular / WhatsApp: +55 14 99784-5510
