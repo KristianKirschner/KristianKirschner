@@ -45,7 +45,6 @@ Atuo principalmente com **Java e Spring Boot**, desenvolvendo APIs REST, integra
 ---
 
 ## O que estou estudando atualmente
-
-- React Native  
+ 
 - Cloud (pretendo tirar a certificação AWS Cloud Practitioner ainda este semestre)
 - Análise de dados com Pandas, React e Flutter (faculdade)
