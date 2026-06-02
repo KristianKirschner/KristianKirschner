@@ -18,7 +18,7 @@ Atuo principalmente com **Java e Spring Boot**, desenvolvendo APIs REST, integra
 <div align="center">
   
 
-<img height="180em" src="https://streak-stats.demolab.com?user=KristianKirschner&locale=pt_BR&background=000000&border=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&excludeDaysLabel=AAAAAA" />
+<img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=KristianKirschner&locale=pt_BR&background=000000&border=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&excludeDaysLabel=AAAAAA" />
 <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=KristianKirschner&custom_title=Linguagens%20mais%20usadas&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=000000"/>
 
 </div>
